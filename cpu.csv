@@ -1,0 +1,151 @@
+Name,Codename,Cores,Clock,Socket,Process,L3 Cache,TDP,Released
+"
+Ryzen 5 3600
+",Matisse,6  / 12,3.6 to 4.2 GHz,Socket AM4,7 nm,32MB,65 W,"Jul 7th, 2019"
+"
+Ryzen 5 5600X
+",Vermeer,6  / 12,3.7 to 4.6 GHz,Socket AM4,7 nm,32MB,65 W,"Nov 5th, 2020"
+"
+Ryzen 5 5600G
+",Cezanne,6  / 12,3.9 to 4.4 GHz,Socket AM4,7 nm,16MB,65 W,"Apr 13th, 2021"
+"
+A8-7680
+",Godaveri,4 ,3.5 to 3.8 GHz,Socket FM2+,28 nm,N/A,45 W,"Oct 26th, 2018"
+"
+Core i5-10400F
+",Comet Lake,6  / 12,2.9 to 4.3 GHz,Socket 1200,14 nm,12MB,65 W,"Apr 30th, 2020"
+"
+Ryzen 7 3700X
+",Matisse,8  / 16,3.6 to 4.4 GHz,Socket AM4,7 nm,32MB,65 W,"Jul 7th, 2019"
+"
+Ryzen 7 5800X
+",Vermeer,8  / 16,3.8 to 4.7 GHz,Socket AM4,7 nm,32MB,105 W,"Nov 5th, 2020"
+"
+FX-8350
+",Vishera,8 ,4 to 4.2 GHz,Socket AM3+,32 nm,8MB,125 W,"Oct 23rd, 2012"
+"
+Ryzen 5 3500X
+",Matisse,6 ,3.6 to 4.1 GHz,Socket AM4,7 nm,32MB,65 W,"Sep 24th, 2019"
+"
+Core 2 Duo E8400
+",Wolfdale,2 ,3 GHz,Socket 775,45 nm,N/A,65 W,"Jan 1st, 2008"
+"
+Ryzen 7 5700G
+",Cezanne,8  / 16,3.8 to 4.6 GHz,Socket AM4,7 nm,16MB,65 W,"Apr 13th, 2021"
+"
+Ryzen 9 5950X
+",Vermeer,16  / 32,3.4 to 4.9 GHz,Socket AM4,7 nm,64MB,105 W,"Nov 5th, 2020"
+"
+Ryzen 9 5900X
+",Vermeer,12  / 24,3.7 to 4.8 GHz,Socket AM4,7 nm,64MB,105 W,"Nov 5th, 2020"
+"
+Ryzen 5 2600
+",Zen,6  / 12,3.4 to 3.9 GHz,Socket AM4,12 nm,16MB,65 W,"Apr 19th, 2018"
+"
+FX-6300
+",Vishera,6 ,3.5 to 4.1 GHz,Socket AM3+,32 nm,8MB,95 W,"Oct 23rd, 2012"
+"
+Core i7-2600
+",Sandy Bridge,4  / 8,3.4 to 3.8 GHz,Socket 1155,32 nm,8MB,95 W,"Jan 9th, 2011"
+"
+Core i9-11900K
+",Rocket Lake,8  / 16,3.5 to 5.3 GHz,Socket 1200,14 nm,16MB,125 W,"Mar 16th, 2021"
+"
+Ryzen 5 5500U
+",Lucienne,6  / 12,2.1 to 4 GHz,Socket FP6,7 nm,8MB,25 W,"Jan 12th, 2021"
+"
+Ryzen 7 5800H
+",Cezanne,8  / 16,3.2 to 4.4 GHz,Socket FP6,7 nm,16MB,54 W,"Jan 12th, 2021"
+"
+Core i3-10105F
+",Comet Lake-R,4  / 8,3.7 to 4.4 GHz,Socket 1200,14 nm,6MB,65 W,"Mar 16th, 2021"
+"
+Ryzen 3 3200G
+",Picasso,4 ,3.6 to 4 GHz,Socket AM4,12 nm,4MB,65 W,"Jul 7th, 2019"
+"
+Core i5-3470
+",Ivy Bridge,4 ,3.2 to 3.6 GHz,Socket 1155,22 nm,6MB,77 W,"Jun 1st, 2012"
+"
+Core i7-11700K
+",Rocket Lake,8  / 16,3.6 to 5 GHz,Socket 1200,14 nm,16MB,125 W,"Mar 16th, 2021"
+"
+Athlon 3000G
+",Zen,2  / 4,3.5 GHz,Socket AM4,14 nm,4MB,35 W,"Nov 20th, 2019"
+"
+Core i5-10400
+",Comet Lake,6  / 12,2.9 to 4.3 GHz,Socket 1200,14 nm,12MB,65 W,"Apr 30th, 2020"
+"
+Ryzen 3 3100
+",Matisse,4  / 8,3.6 to 3.9 GHz,Socket AM4,7 nm,16MB,65 W,"Apr 24th, 2020"
+"
+Core i7-3770
+",Ivy Bridge,4  / 8,3.4 to 3.9 GHz,Socket 1155,22 nm,8MB,77 W,"Apr 29th, 2012"
+"
+Ryzen 5 3400G
+",Picasso,4  / 8,3.7 to 4.2 GHz,Socket AM4,12 nm,4MB,65 W,"Jul 7th, 2019"
+"
+Athlon II X2 250
+",Regor,2 ,3 GHz,Socket AM3,45 nm,N/A,65 W,"Jun 2nd, 2009"
+"
+Core i9-10900K
+",Comet Lake,10  / 20,3.7 to 5.3 GHz,Socket 1200,14 nm,20MB,125 W,"Apr 30th, 2020"
+"
+Pentium G4400
+",Skylake,2 ,3.3 GHz,Socket 1151,14 nm,4MB,51 W,"Sep 1st, 2015"
+"
+Core i7-10700K
+",Comet Lake,8  / 16,3.8 to 5.1 GHz,Socket 1200,14 nm,16MB,125 W,"Apr 30th, 2020"
+"
+Ryzen 9 3900X
+",Matisse,12  / 24,3.8 to 4.6 GHz,Socket AM4,7 nm,64MB,105 W,"Jul 7th, 2019"
+"
+Core i3-370M
+",Arrandale,2  / 4,2.4 GHz,Socket G1,32 nm,3MB,35 W,"Jun 20th, 2010"
+"
+Ryzen 3 3250U
+",Picasso,2  / 4,2.6 to 3.5 GHz,Socket FP5,12 nm,4MB,15 W,"Jan 6th, 2020"
+"
+Ryzen Threadripper 3990X
+",Matisse,64  / 128,2.9 to 4.3 GHz,Socket TRX4,7 nm,128MB,280 W,"Feb 7th, 2020"
+"
+Core i5-650
+",Clarkdale,2  / 4,3.2 to 3.466 GHz,Socket 1156,32 nm,4MB,73 W,"Jan 7th, 2010"
+"
+Core i7-4770
+",Haswell,4  / 8,3.4 to 3.9 GHz,Socket 1150,22 nm,8MB,84 W,"Jun 2nd, 2013"
+"
+Ryzen 3 2200G
+",Raven Ridge,4 ,3.5 to 3.7 GHz,Socket AM4,14 nm,4MB,65 W,"Feb 12th, 2018"
+"
+Core i7-4790
+",Haswell,4  / 8,3.6 to 4 GHz,Socket 1150,22 nm,8MB,84 W,"May 1st, 2014"
+"
+Core i3-380M
+",Arrandale,2  / 4,2.534 GHz,Socket G1,32 nm,3MB,35 W,"Oct 26th, 2010"
+"
+Core i5-1135G7
+",Tiger Lake-U,4  / 8,2.4 to 4.2 GHz,BGA 1449,10 nm,8MB,28 W,"Sep 2nd, 2020"
+"
+A10-9700
+",Bristol Ridge,4 ,3.5 to 3.8 GHz,Socket AM4,28 nm,N/A,65 W,"Jul 27th, 2017"
+"
+Core 2 Quad Q6600 (95W)
+",Kentsfield,4 ,2.4 GHz,Socket 775,65 nm,N/A,95 W,"Jul 23rd, 2007"
+"
+Ryzen 5 1600
+",Zen,6  / 12,3.2 to 3.6 GHz,Socket AM4,14 nm,16MB,65 W,"Apr 11th, 2017"
+"
+Ryzen 5 3600X
+",Matisse,6  / 12,3.8 to 4.4 GHz,Socket AM4,7 nm,32MB,95 W,"Jul 7th, 2019"
+"
+Core i3-10100
+",Comet Lake,4  / 8,3.6 to 4.3 GHz,Socket 1200,14 nm,6MB,65 W,"Apr 30th, 2020"
+"
+Ryzen 5 PRO 4650G
+",Renoir,6  / 12,3.7 to 4.2 GHz,Socket AM4,7 nm,8MB,65 W,"Jul 21st, 2020"
+"
+Ryzen 3 4300GE
+",Renoir,4  / 8,3.5 to 4 GHz,Socket AM4,7 nm,4MB,35 W,"Jul 21st, 2020"
+"
+Core i5-11400
+",Rocket Lake,6  / 12,2.6 to 4.4 GHz,Socket 1200,14 nm,12MB,65 W,"Mar 16th, 2021"

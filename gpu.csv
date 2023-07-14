@@ -1,0 +1,251 @@
+Name,GPUChip,Released,Bus,Memory,GPUClock,MemoryClock,Shaders_TMUs_ROPs
+"
+GeForce RTX 3060
+","
+GA106
+","Jan 12th, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",1320 MHz,1875 MHz,3584 / 112 / 48
+"
+GeForce RTX 3090
+","
+GA102
+","Sep 1st, 2020",PCIe 4.0 x16,"24 GB, GDDR6X, 384 bit",1395 MHz,1219 MHz,10496 / 328 / 112
+"
+GeForce RTX 3060 Ti
+","
+GA104
+","Dec 1st, 2020",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1410 MHz,1750 MHz,4864 / 152 / 80
+"
+GeForce RTX 3080
+","
+GA102
+","Sep 1st, 2020",PCIe 4.0 x16,"10 GB, GDDR6X, 320 bit",1440 MHz,1188 MHz,8704 / 272 / 96
+"
+GeForce GTX 1050 Ti
+","
+GP107
+","Oct 25th, 2016",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1291 MHz,1752 MHz,768 / 48 / 32
+"
+GeForce RTX 3070
+","
+GA104
+","Sep 1st, 2020",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1500 MHz,1750 MHz,5888 / 184 / 96
+"
+Radeon RX 6600 XT
+","
+Navi 23
+","Jul 30th, 2021",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1968 MHz,2000 MHz,2048 / 128 / 64
+"
+GeForce GTX 970
+","
+GM204
+","Sep 19th, 2014",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1050 MHz,1753 MHz,1664 / 104 / 56
+"
+GeForce RTX 3080 Ti
+","
+GA102
+","May 31st, 2021",PCIe 4.0 x16,"12 GB, GDDR6X, 384 bit",1365 MHz,1188 MHz,10240 / 320 / 112
+"
+GeForce GTX 960
+","
+GM206
+","Jan 22nd, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1127 MHz,1753 MHz,1024 / 64 / 32
+"
+GeForce RTX 2060
+","
+TU106
+","Jan 7th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1365 MHz,1750 MHz,1920 / 120 / 48
+"
+GeForce GTX 750 Ti
+","
+GM107
+","Feb 18th, 2014",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1020 MHz,1350 MHz,640 / 40 / 16
+"
+GeForce GTX 1070
+","
+GP104
+","Jun 10th, 2016",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1506 MHz,2002 MHz,1920 / 120 / 64
+"
+GeForce GTX 1650
+","
+TU117
+","Apr 23rd, 2019",PCIe 3.0 x16,"4 GB, GDDR5, 128 bit",1485 MHz,2001 MHz,896 / 56 / 32
+"
+GeForce GTX 1060 6 GB
+","
+GP106
+","Jul 19th, 2016",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1506 MHz,2002 MHz,1280 / 80 / 48
+"
+GeForce GT 1030
+","
+GP108
+","May 17th, 2017",PCIe 3.0 x4,"2 GB, GDDR5, 64 bit",1228 MHz,1502 MHz,384 / 24 / 16
+"
+GeForce RTX 3070 Ti
+","
+GA104
+","May 31st, 2021",PCIe 4.0 x16,"8 GB, GDDR6X, 256 bit",1575 MHz,1188 MHz,6144 / 192 / 96
+"
+Radeon RX 6600
+","
+Navi 23
+","Oct 13th, 2021",PCIe 4.0 x8,"8 GB, GDDR6, 128 bit",1626 MHz,1750 MHz,1792 / 112 / 64
+"
+Radeon RX 580
+","
+Polaris 20
+","Apr 18th, 2017",PCIe 3.0 x16,"8 GB, GDDR5, 256 bit",1257 MHz,2000 MHz,2304 / 144 / 32
+"
+GeForce GTX 1080 Ti
+","
+GP102
+","Mar 10th, 2017",PCIe 3.0 x16,"11 GB, GDDR5X, 352 bit",1481 MHz,1376 MHz,3584 / 224 / 88
+"
+Radeon RX 6900 XT
+","
+Navi 21
+","Oct 28th, 2020",PCIe 4.0 x16,"16 GB, GDDR6, 256 bit",1825 MHz,2000 MHz,5120 / 320 / 128
+"
+Radeon RX 570
+","
+Polaris 20
+","Apr 18th, 2017",PCIe 3.0 x16,"4 GB, GDDR5, 256 bit",1168 MHz,1750 MHz,2048 / 128 / 32
+"
+Radeon RX 6700 XT
+","
+Navi 22
+","Mar 3rd, 2021",PCIe 4.0 x16,"12 GB, GDDR6, 192 bit",2321 MHz,2000 MHz,2560 / 160 / 64
+"
+GeForce GTX 1080
+","
+GP104
+","May 27th, 2016",PCIe 3.0 x16,"8 GB, GDDR5X, 256 bit",1607 MHz,1251 MHz,2560 / 160 / 64
+"
+GeForce 210
+","
+GT218
+","Oct 12th, 2009",PCIe 2.0 x16,"512 MB, DDR3, 64 bit",520 MHz,400 MHz,16 / 8 / 4
+"
+GeForce GTX 1660 SUPER
+","
+TU116
+","Oct 29th, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1530 MHz,1750 MHz,1408 / 88 / 48
+"
+GeForce GTX 550 Ti
+","
+GF116
+","Mar 15th, 2011",PCIe 2.0 x16,"1024 MB, GDDR5, 192 bit",900 MHz,1026 MHz,192 / 32 / 24
+"
+GeForce GTX 1660 Ti
+","
+TU116
+","Feb 22nd, 2019",PCIe 3.0 x16,"6 GB, GDDR6, 192 bit",1500 MHz,1500 MHz,1536 / 96 / 48
+"
+GeForce RTX 2080 Ti
+","
+TU102
+","Sep 20th, 2018",PCIe 3.0 x16,"11 GB, GDDR6, 352 bit",1350 MHz,1750 MHz,4352 / 272 / 88
+"
+GeForce RTX 3090 Ti
+","
+GA102
+",Unknown,PCIe 4.0 x16,"24 GB, GDDR6X, 384 bit",1395 MHz,1325 MHz,10752 / 336 / 112
+"
+GeForce GT 730
+","
+GK208B
+","Jun 18th, 2014",PCIe 2.0 x8,"1024 MB, GDDR5, 64 bit",902 MHz,1253 MHz,384 / 32 / 8
+"
+GeForce GTX 1050
+","
+GP107
+","Oct 25th, 2016",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1354 MHz,1752 MHz,640 / 40 / 32
+"
+GeForce RTX 3050
+","
+GA107
+",2022,PCIe 4.0 x16,"4 GB, GDDR6, 128 bit",1545 MHz,1750 MHz,2304 / 72 / 40
+"
+GeForce GTX 1650 SUPER
+","
+TU116
+","Nov 22nd, 2019",PCIe 3.0 x16,"4 GB, GDDR6, 128 bit",1530 MHz,1500 MHz,1280 / 80 / 32
+"
+GeForce GTX 980 Ti
+","
+GM200
+","Jun 2nd, 2015",PCIe 3.0 x16,"6 GB, GDDR5, 384 bit",1000 MHz,1753 MHz,2816 / 176 / 96
+"
+GeForce GTX 760
+","
+GK104
+","Jun 25th, 2013",PCIe 3.0 x16,"2 GB, GDDR5, 256 bit",980 MHz,1502 MHz,1152 / 96 / 32
+"
+Radeon RX 560
+","
+Polaris 21
+","Apr 18th, 2017",PCIe 3.0 x8,"4 GB, GDDR5, 128 bit",1175 MHz,1750 MHz,1024 / 64 / 16
+"
+GeForce GTX 660
+","
+GK106
+","Sep 6th, 2012",PCIe 3.0 x16,"2 GB, GDDR5, 192 bit",980 MHz,1502 MHz,960 / 80 / 24
+"
+GeForce RTX 2070 SUPER
+","
+TU104
+","Jul 9th, 2019",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1605 MHz,1750 MHz,2560 / 160 / 64
+"
+GeForce RTX 2080
+","
+TU104
+","Sep 20th, 2018",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1515 MHz,1750 MHz,2944 / 184 / 64
+"
+GeForce GTX 1660
+","
+TU116
+","Mar 14th, 2019",PCIe 3.0 x16,"6 GB, GDDR5, 192 bit",1530 MHz,2001 MHz,1408 / 88 / 48
+"
+Radeon RX 550
+","
+Lexa
+","Apr 20th, 2017",PCIe 3.0 x8,"2 GB, GDDR5, 128 bit",1100 MHz,1750 MHz,512 / 32 / 16
+"
+GeForce GT 710
+","
+GK208B
+","Mar 27th, 2014",PCIe 2.0 x8,"2 GB, DDR3, 64 bit",954 MHz,900 MHz,192 / 16 / 8
+"
+Radeon RX 5700 XT
+","
+Navi 10
+","Jul 7th, 2019",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1605 MHz,1750 MHz,2560 / 160 / 64
+"
+GeForce GTS 450
+","
+GF106
+","Sep 13th, 2010",PCIe 2.0 x16,"1024 MB, GDDR5, 128 bit",783 MHz,902 MHz,192 / 32 / 16
+"
+GeForce RTX 2070
+","
+TU106
+","Oct 17th, 2018",PCIe 3.0 x16,"8 GB, GDDR6, 256 bit",1410 MHz,1750 MHz,2304 / 144 / 64
+"
+Radeon Vega 8
+","
+Raven
+","Feb 12th, 2018",IGP,System Shared,300 MHz,System Shared,512 / 32 / 8
+"
+GeForce GTX 650
+","
+GK107
+","Sep 6th, 2012",PCIe 3.0 x16,"1024 MB, GDDR5, 128 bit",1058 MHz,1250 MHz,384 / 32 / 16
+"
+GeForce GTX 950
+","
+GM206
+","Aug 20th, 2015",PCIe 3.0 x16,"2 GB, GDDR5, 128 bit",1024 MHz,1653 MHz,768 / 48 / 32
+"
+GeForce RTX 3080 Mobile
+","
+GA104
+","Jan 12th, 2021",PCIe 4.0 x16,"8 GB, GDDR6, 256 bit",1110 MHz,1750 MHz,6144 / 192 / 96
